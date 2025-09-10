@@ -1,6 +1,6 @@
 
 
-<!-- Profile README for sourabhis101 -->
+
 
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">Passionate Django & Python Developer | Exploring System Design & DevOps</h3>
@@ -8,7 +8,7 @@
 
 
 ### 🚀 About Me
-- 💻 I’m focused on **Python, Django, DRF, and PostgreSQL**
+- 💻 I’m focused on **Python, Django,Javascript , DRF, and PostgreSQL**
 - 🌱 Currently learning **System Design, Docker, and DevOps**
 - ✍️ Building projects like **Resume Builder**, **Code Journey**, and my **Portfolio**
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sengersourabh/)**
