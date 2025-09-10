@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">Passionate Django & Python Developer | Exploring System Design & DevOps</h3>
 
----
+
 
 ### 🚀 About Me
 - 💻 I’m focused on **Python, Django, DRF, and PostgreSQL**
@@ -13,28 +13,30 @@
 - ✍️ Building projects like **Resume Builder**, **Code Journey**, and my **Portfolio**
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sengersourabh/)**
 
----
+
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align = "center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" alt="Tailwind CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width= "40" alt="javascript"  style="background:transparent;" >
 </p>
 
----
+
+
+
+
 
 ### 📂 Featured Projects
 - 📝 [**Resume Builder**](https://sourabhis101.github.io/resumebuilder/) – Build job-winning, ATS-friendly resumes online  
 - 💻 [**My Code Journey**](https://sourabhis101.github.io/my-code/) – Track coding progress CLI-style  
 - 🌐 [**Portfolio Website**](https://sourabhis101.github.io/) – Personal developer portfolio  
 
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
